@@ -1,5 +1,6 @@
-{
-	"tickets": [{
+[
+	{
+		"tickets": [{
 			"name": "Assaf",
 			"email": "assaf@logmein.com",
 			"orderNumber": "123-tre",
@@ -62,6 +63,7 @@
 			"currency": "USD",
 			"totalCost": 100
 		}
-	],
-	"otherField": "assaf"
-}
+	]
+	},
+	{"otherField": "assaf"}
+]
